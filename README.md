@@ -1,1 +1,4 @@
-# Electric-vehicles-sales-in-indian
+# Electric-vehicles-saIndia’s electric vehicle (EV) market has witnessed significant growth over the past few years, driven by environmental concerns, government incentives, and technological advancements. In FY 2023–24, the country recorded over 1.6 million EV sales, marking a substantial year-on-year increase. The majority of these were electric two-wheelers and three-wheelers, which together accounted for over 90% of total sales, largely due to their affordability and suitability for urban commuting and last-mile delivery.
+Government initiatives like the FAME II scheme, state-level subsidies, and increasing fuel prices have further accelerated the shift towards electric mobility. Leading players in the Indian EV space include Tata Motors, Ola Electric, Ather Energy, and TVS, among others. While the market is expanding rapidly, challenges such as limited charging infrastructure and high battery costs remain.
+<img width="10274" height="138" alt="image" src="https://github.com/user-attachments/assets/84c54e8d-77d7-4660-8cc9-f5015d8bdaa7" />
+les-in-indian
